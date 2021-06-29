@@ -2,7 +2,7 @@
 
  - 💻  My dream is to be a developer! 
 
-- ✏ I am studying React, JavaScript, React-Native, etc.
+- ✏ I am studying React, React-Native, etc.
 
  - 🇰🇷  **I'm from South Korea**
 
