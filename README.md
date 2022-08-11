@@ -1,15 +1,14 @@
 ### Hello Everyone 👋   
 
- - 💻  My dream is to be a developer! 
+- 코딩보단 여행하는걸 좋아하지만 2순위로 코딩을 좋아하는 개발자입니다 ^^1
 
-- ✏ I am studying React, React-Native, etc.
+- 소통과 협업하면서 말을 많이 하는걸 좋아하는 프론트 엔드 개발자입니다.
+
+- 풀스택 개발자가 되기 위해 Django, node express 스탭을 밞아가고 있습니다.
 
  - 🇰🇷  **I'm from South Korea**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100dongwoo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
-
-
-
 
 
 ## 주 기술 스택
