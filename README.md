@@ -10,6 +10,26 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
 
+
+
+
+
+## 주 기술 스택
+
+<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
+
+<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
+
+
+## 부 기술 스택 
+
+
+
+
 <!--
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/> &nbsp;
