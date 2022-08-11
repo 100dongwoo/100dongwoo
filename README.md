@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#6C7CC8&height=300&section=header&text=방문해주셔서감사합니다&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=방문해주셔서감사합니다&fontSize=30)
 
 
 ### Hello Everyone 👋   
