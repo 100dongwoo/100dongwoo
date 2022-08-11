@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=방문해주셔서 감사합니다&fontSize=30)
+
+
 ### Hello Everyone 👋   
 
 - 코딩보단 여행하는걸 좋아하지만 2순위로 코딩을 좋아하는 개발자입니다 ^^1
