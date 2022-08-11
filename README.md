@@ -8,7 +8,7 @@
 
  - 🇰🇷  **I'm from South Korea**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100dongwoo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo)](https://github.com/100dongwoo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100dongwoo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
 
 
 
