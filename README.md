@@ -18,7 +18,7 @@
 
 ## 주 기술 스택
 
-<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> 
+<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 
