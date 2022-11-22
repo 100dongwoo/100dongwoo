@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=welcome&fontSize=30) -->
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Dongwoo. I am Developer" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <br />
 ### Hello Everyone 👋   
