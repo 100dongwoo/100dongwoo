@@ -1,8 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=welcome&fontSize=30) -->
 
-
-
-<br />
 ### Hello Everyone 👋   
 
 - 코딩보단 여행하는걸 좋아하지만 2순위로 코딩을 좋아하는 개발자입니다 ^^
