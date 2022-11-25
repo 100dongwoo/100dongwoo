@@ -26,7 +26,7 @@
 
 ## 부 기술 스택 
 
-<img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
+<!-- <img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/> -->
 
 <img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
