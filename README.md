@@ -1,64 +1,58 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=welcome&fontSize=30) -->
+<div align='center'>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100dongwoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요 개발자 백동우입니다 👋   
+## About Me ‍👨‍💻
 
-- 코딩보단 여행하는걸 좋아하지만 2순위로 코딩을 좋아하는 개발자입니다 ^^
+<div>
+    <a href="https://interesting-longan-2b3.notion.site/ee7224efb8b143eda8a57e8e96fc9b7a">
+        <img src="https://img.shields.io/badge/Notion-white?&style=flat-square&logo=notion&logoColor=black"/>
+    </a>
+    <a href="https://velog.io/@100dongwoo">
+        <img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
+    </a>
+</div>
 
-- 소통과 협업하면서 말을 많이 하는걸 좋아하는 프론트 엔드 개발자입니다.
+
+</div>
+
+### 안녕하세요 개발자 백동우입니다 👋
+
+- 코딩 보단 여행하는걸 좋아하지만 2순위로 코딩을 좋아하는 개발자 입니다.
+
+- 소통과 협업 하면서 말을 많이 하는걸 좋아하는 개발자 입니다.
 
 - 풀스택 개발자가 되기 위해 Django를 공부하며 스탭을 밞아가고 있습니다.
 
- - 🇰🇷  **I'm from South Korea**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100dongwoo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100dongwoo&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
 
 
 
 ## 주 기술 스택
 
-<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 
-<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/> <img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
-
-## 부 기술 스택 
+## 부 기술 스택
 
 <!-- <img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/> -->
 
-<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
-
+<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
 ## Communication
 
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/><img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
+<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/>
+<img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
 
-<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
-
-
-<!--
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
--->
-<!--
-**100dongwoo/100dongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
