@@ -29,10 +29,6 @@
 
 - 현재 웹사이트 퍼포먼스 측정 및 최적화부분을 공부하고 있으며 다방면으로  소통할 수 있는 개발자가 되기 위한 노력을 하고 있습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100dongwoo&layout=compact)
-
-
-
 ## 주 기술 스택
     
 <div style="display: flex;">
